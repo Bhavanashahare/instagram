@@ -1,0 +1,35 @@
+/*h2{
+    column-rule-color: blueviolet;
+    background-color: grey;
+}
+# para1{
+    background-color: blue;
+}
+#john{
+    font-variant: initial;
+    background-color: yellowgreen;
+}
+*{
+    size: 0mm;
+    color: purple;
+}*/
+
+.btn{
+    background-color: blueviolet;
+}
+#gg{
+    font-weight: bolder;
+}
+h2{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+.fr{
+    background-color: greenyellow;
+    font-size: medium;
+    font-style: italic;
+}
+input{
+    background-color: cornflowerblue;
+}

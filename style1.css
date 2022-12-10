@@ -1,0 +1,18 @@
+h1{
+    color: blue;
+    background-color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+*{
+    font-style: italic;
+}
+p{
+    font-weight: 700;
+}
+.hta{
+    color: green;
+}
+#htf{
+    background-color: aqua;
+    
+}

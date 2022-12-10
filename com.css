@@ -1,0 +1,12 @@
+/*div p{
+    background-color: aquamarine;
+}div >p{
+    background-color: blue;
+}
+div +p{
+    background-color: bisque;
+}*/
+
+div ~p{
+    background-color: yellow;
+}

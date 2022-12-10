@@ -1,0 +1,110 @@
+/*image{
+    height: 50;
+    width: 120;
+}
+p{
+    font-size: 130;
+    border-bottom: 120vmax;
+    border-radius: 40px;
+}
+
+
+
+
+
+
+button{
+    background-color: black;
+    color: white;
+    height:40px;
+    width:250px;
+    border-radius: 40px;
+}*/
+img{
+    position:absolute;
+    left:600px;
+    top:50px;
+}
+h1{
+    position: absolute;
+    left:500px;
+    top:90px
+}
+.bt1{
+    position:absolute;
+    left:500px;
+    top:160px;
+    border-radius: 40px;
+    height:40px;
+    width: 290px;
+}
+.p2{
+    position:absolute;
+    left:17px;
+    top:1px;
+    
+}
+
+.p3{
+    position:absolute;
+    left:17px;
+    top: 1px;
+}
+.bt2{
+    position:absolute;
+    left:500px;
+    top: 230px;
+    border-radius: 40px;
+    height:40px;
+    width: 290px;
+}
+p{
+    position:absolute;
+    left:500px;
+    top: 280px;
+    border-radius: 40px;
+    height:40px;
+    width: 200px;
+}
+.tgt1{
+    position:absolute;
+    left:500px;
+    top: 350px;
+    /*box-sizing: border-box;*/
+    height:40px;
+    width: 300px;
+}
+.b3{
+    position:absolute;
+    left:490px;
+    top:410px;
+    border-radius: 40px;
+    height: 50px;
+    width: 300px;
+    background-color: black;
+    color: azure;
+}
+.tgt2{
+    position:absolute;
+    left:490px;
+    top:490px;
+    border-radius:30px;
+    height: 50px;
+    width: 300px;
+font-weight: 800;
+text-align: center;
+}
+h3{
+    position: absolute;
+    left:500px;
+    top:560px;
+}
+
+a{
+    position: absolute;
+    left:710px;
+    top:580px;
+}
+
+
+
